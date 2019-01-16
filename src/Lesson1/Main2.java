@@ -12,8 +12,7 @@ public class Main2 {
         double sum1 = summa - numIgr * igrushka;
         double numGev = sum1 / gevacka; // кол-во жевачек
         double sum2 = sum1 - numGev * gevacka;
-        double numConf = sum2 / confeta;
-        double sum3 = s
+
         System.out.println("Игрушек " + numIgr);
         System.out.println("Жевачки " + numGev);
 
