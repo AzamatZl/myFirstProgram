@@ -11,7 +11,7 @@ public class Main2 {
       //  int ost = (numIgr * igrushka) - summa;
         double sum1 = summa - numIgr * igrushka;
         double numGev = sum1 / gevacka; // кол-во жевачек
-        double sum2 = sum1 - numGev * gevacka;
+     //   double sum2 = sum1 - numGev * gevacka;
 
         System.out.println("Игрушек " + numIgr);
         System.out.println("Жевачки " + numGev);
